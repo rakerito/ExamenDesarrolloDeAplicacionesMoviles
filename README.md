@@ -19,16 +19,16 @@ El proyecto tiene como finalidad demostrar el uso de **Flutter y Dart** para:
 
 ## Cómo ejecutar
 
-# Clonar el repositorio
+1.- Clonar el repositorio
 git clone https://github.com/rakerito/ExamenDesarrolloDeAplicacionesMoviles.git
 
-# Entrar a la carpeta
+2.- Entrar a la carpeta
 cd ExamenDesarrolloDeAplicacionesMoviles
 
-# Instalar dependencias
+3.- Instalar dependencias
 flutter pub get
 
-# Ejecutar en emulador o dispositivo
+4.- Ejecutar en emulador o dispositivo
 flutter run
 
 # Autor
