@@ -1,16 +1,38 @@
-# examen
+# Examen - Desarrollo de Aplicaciones Móviles
 
-A new Flutter project.
+## Descripción
+Este repositorio contiene el examen realizado en la materia de **Desarrollo de Aplicaciones Móviles** en la Universidad Tecnológica de San Juan del Río.  
+La aplicación fue desarrollada en **Flutter** y es multiplataforma (Android, iOS, Web, Desktop).
 
-## Getting Started
+## Objetivo
+El proyecto tiene como finalidad demostrar el uso de **Flutter y Dart** para:
+- Crear una aplicación móvil con varias pantallas (`MyHomePage`, `PlayerPage`).
+- Implementar **navegación entre vistas**.
+- Diseñar **widgets personalizados** (`MyColumn`, `MyRow`) para estructurar la interfaz.
+- Configurar un proyecto multiplataforma que puede ejecutarse en Android, iOS, Web y Desktop.
 
-This project is a starting point for a Flutter application.
+## Tecnologías utilizadas
+- **Flutter**
+- **Dart**
+- **Android Studio / Visual Studio Code**
+- **Multiplataforma (Android, iOS, Web, Desktop)**
 
-A few resources to get you started if this is your first Flutter project:
+## Cómo ejecutar
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Clonar el repositorio
+git clone https://github.com/rakerito/ExamenDesarrolloDeAplicacionesMoviles.git
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Entrar a la carpeta
+cd ExamenDesarrolloDeAplicacionesMoviles
+
+# Instalar dependencias
+flutter pub get
+
+# Ejecutar en emulador o dispositivo
+flutter run
+
+# Autor
+Raquel Pastor Gaytán  
+Universidad Tecnológica de San Juan del Río
+
+Materia: Desarrollo de Aplicaciones Móviles
